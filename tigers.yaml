@@ -1,9 +1,11 @@
-team : tigers
+team : Tigers
 
-manager : son
+manager : Donald
+
+coach: Grace
 
 member:
-
-hello
-world
-davdi
+ - Linda
+ - William
+ - David
+ - George
